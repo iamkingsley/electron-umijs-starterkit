@@ -1,0 +1,15 @@
+{
+  "name": "desktop_app",
+  "version": "1.0.0",
+  "description": "umi+react+electron.",
+  "main": "dist/main/main.js",
+  "author": {
+    "name": "Bernard Codjoe"
+  },
+  "dependencies": {
+    "electron-config": "^1.0.0",
+    "electron-debug": "^2.0.0",
+    "electron-is": "^2.4.1",
+    "electron-log": "^2.2.14"
+  }
+}
