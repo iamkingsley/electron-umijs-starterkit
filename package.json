@@ -51,7 +51,7 @@
     "@types/react-dom": "^16.0.11",
     "@types/react-test-renderer": "^16.0.3",
 
-    "electron": "^4.0.1",
+    "electron": "^9.1.0",
     "electron-builder": "^20.38.4",
     "electron-dev": "^1.0.1",
     "electron-rebuild": "^1.8.2",
